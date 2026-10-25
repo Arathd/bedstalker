@@ -1,0 +1,14 @@
+{
+  "entity.bedstalker.stalker": "Stalker",
+  "item.bedstalker.stalker_spawn_egg": "Stalker Spawn Egg",
+  "subtitles.bedstalker.step": "Stalker steps heavily",
+  "subtitles.bedstalker.breath": "Something breathes",
+  "subtitles.bedstalker.whisper": "Whispers",
+  "subtitles.bedstalker.scream": "Stalker screeches",
+  "subtitles.bedstalker.bang": "Stalker pounds",
+  "subtitles.bedstalker.smash": "Stalker smashes through",
+  "subtitles.bedstalker.hide": "Stalker slides under bed",
+  "subtitles.bedstalker.emerge": "Stalker emerges",
+  "subtitles.bedstalker.hurt": "Stalker hurts",
+  "subtitles.bedstalker.death": "Stalker dies"
+}

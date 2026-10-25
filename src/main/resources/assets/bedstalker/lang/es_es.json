@@ -1,0 +1,14 @@
+{
+  "entity.bedstalker.stalker": "Acechador",
+  "item.bedstalker.stalker_spawn_egg": "Huevo generador de Acechador",
+  "subtitles.bedstalker.step": "El Acechador camina pesadamente",
+  "subtitles.bedstalker.breath": "Algo respira",
+  "subtitles.bedstalker.whisper": "Susurros",
+  "subtitles.bedstalker.scream": "El Acechador chilla",
+  "subtitles.bedstalker.bang": "El Acechador golpea",
+  "subtitles.bedstalker.smash": "El Acechador destroza algo",
+  "subtitles.bedstalker.hide": "El Acechador se desliza bajo la cama",
+  "subtitles.bedstalker.emerge": "El Acechador sale de debajo de la cama",
+  "subtitles.bedstalker.hurt": "El Acechador es herido",
+  "subtitles.bedstalker.death": "El Acechador muere"
+}

@@ -1,0 +1,142 @@
+{
+  "entity.stalker.step": {
+    "category": "hostile",
+    "subtitle": "subtitles.bedstalker.step",
+    "sounds": [
+      {
+        "name": "bedstalker:entity/stalker/step1",
+        "volume": 1.0,
+        "attenuation_distance": 24
+      },
+      {
+        "name": "bedstalker:entity/stalker/step2",
+        "volume": 1.0,
+        "attenuation_distance": 24
+      },
+      {
+        "name": "bedstalker:entity/stalker/step3",
+        "volume": 1.0,
+        "attenuation_distance": 24
+      }
+    ]
+  },
+  "entity.stalker.breath": {
+    "category": "hostile",
+    "subtitle": "subtitles.bedstalker.breath",
+    "sounds": [
+      {
+        "name": "bedstalker:entity/stalker/breath1",
+        "volume": 1.0,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "bedstalker:entity/stalker/breath2",
+        "volume": 1.0,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "entity.stalker.whisper": {
+    "category": "hostile",
+    "subtitle": "subtitles.bedstalker.whisper",
+    "sounds": [
+      {
+        "name": "bedstalker:entity/stalker/whisper1",
+        "volume": 1.0,
+        "attenuation_distance": 16
+      },
+      {
+        "name": "bedstalker:entity/stalker/whisper2",
+        "volume": 1.0,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "entity.stalker.scream": {
+    "category": "hostile",
+    "subtitle": "subtitles.bedstalker.scream",
+    "sounds": [
+      {
+        "name": "bedstalker:entity/stalker/scream",
+        "volume": 1.0,
+        "attenuation_distance": 48
+      }
+    ]
+  },
+  "entity.stalker.bang": {
+    "category": "hostile",
+    "subtitle": "subtitles.bedstalker.bang",
+    "sounds": [
+      {
+        "name": "bedstalker:entity/stalker/bang1",
+        "volume": 1.0,
+        "attenuation_distance": 32
+      },
+      {
+        "name": "bedstalker:entity/stalker/bang2",
+        "volume": 1.0,
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "entity.stalker.smash": {
+    "category": "hostile",
+    "subtitle": "subtitles.bedstalker.smash",
+    "sounds": [
+      {
+        "name": "bedstalker:entity/stalker/smash",
+        "volume": 1.0,
+        "attenuation_distance": 48
+      }
+    ]
+  },
+  "entity.stalker.hide": {
+    "category": "hostile",
+    "subtitle": "subtitles.bedstalker.hide",
+    "sounds": [
+      {
+        "name": "bedstalker:entity/stalker/hide",
+        "volume": 1.0,
+        "attenuation_distance": 24
+      }
+    ]
+  },
+  "entity.stalker.emerge": {
+    "category": "hostile",
+    "subtitle": "subtitles.bedstalker.emerge",
+    "sounds": [
+      {
+        "name": "bedstalker:entity/stalker/emerge",
+        "volume": 1.0,
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "entity.stalker.hurt": {
+    "category": "hostile",
+    "subtitle": "subtitles.bedstalker.hurt",
+    "sounds": [
+      {
+        "name": "bedstalker:entity/stalker/hurt1",
+        "volume": 1.0,
+        "attenuation_distance": 24
+      },
+      {
+        "name": "bedstalker:entity/stalker/hurt2",
+        "volume": 1.0,
+        "attenuation_distance": 24
+      }
+    ]
+  },
+  "entity.stalker.death": {
+    "category": "hostile",
+    "subtitle": "subtitles.bedstalker.death",
+    "sounds": [
+      {
+        "name": "bedstalker:entity/stalker/death",
+        "volume": 1.0,
+        "attenuation_distance": 32
+      }
+    ]
+  }
+}
